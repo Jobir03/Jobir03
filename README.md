@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jobir!
 
 Welcome to my GitHub profile! I love creating engaging user experiences and building modern web applications.
+
 ---
 
 ## 🚀 About Me
@@ -8,6 +9,7 @@ Welcome to my GitHub profile! I love creating engaging user experiences and buil
 **Location:** _Your location goes here_  
 **Bio:**  
 I'm a passionate Frontend Developer dedicated to crafting responsive, accessible, and visually appealing web interfaces. I thrive on solving challenges with elegant code and keeping up with the latest in frontend technology.
+
 ---
 
 ## 🛠️ Top Skills
