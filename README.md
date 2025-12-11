@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jobir03!
+# 👋 Hi, I'm Jobir!
 
 Welcome to my GitHub profile! I love creating engaging user experiences and building modern web applications.
 
@@ -51,16 +51,5 @@ _This section will highlight your best work. Please let me know which repositori
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
-
-_**To make this README even better, tell me your:**_
-- **Location (city/country)**
-- **Any other favorite projects or details you want to show**
-- **Preferred contact/social links**
-- **Personal tagline, fun fact, or emoji for extra flair**
 
 Just share, and your GitHub profile will really stand out!
