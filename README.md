@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Jobir!
-
 Welcome to my GitHub profile! I love creating engaging user experiences and building modern web applications.
 
 ## 🚀 About Me
-**Profession:** Frontend Developer  
-**Location:** _Your location goes here_  
-**Bio:**  
+**Profession:** Frontend Developer | React native | NodeJs
+**Location:** Uzbekistan Bukhara
 I'm a passionate Frontend Developer dedicated to crafting responsive, accessible, and visually appealing web interfaces. I thrive on solving challenges with elegant code and keeping up with the latest in frontend technology.
 
 ## 🛠️ Top Skills
@@ -25,12 +23,6 @@ _This section will highlight your best work. Please let me know which repositori
 - [Open Source Chap widget](https://github.com/Jobir03/test-widget)
 - [Delivery App (React-native)](https://github.com/Jobir03/uniGo)
 - [CRM-dashboard](https://github.com/Jobir03/UniCRM-test)
-
-## 💡 Latest Activity
-- 🔥 I’m currently working on: Interactive dashboard UI library  
-- 🌱 I’m learning: Advanced Next.js & React Server Components  
-- 🤝 I’m looking to collaborate on: Open source UI projects, design systems  
-- 💬 Ask me about: Frontend engineering, React, performance optimization, accessibility
 
 ## 📫 Connect with Me
 - [Email](mailto:jobirashurov03@gmail.com)
