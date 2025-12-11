@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Jobir!
 
 Welcome to my GitHub profile! I love creating engaging user experiences and building modern web applications.
-
 ---
 
 ## 🚀 About Me
@@ -9,7 +8,6 @@ Welcome to my GitHub profile! I love creating engaging user experiences and buil
 **Location:** _Your location goes here_  
 **Bio:**  
 I'm a passionate Frontend Developer dedicated to crafting responsive, accessible, and visually appealing web interfaces. I thrive on solving challenges with elegant code and keeping up with the latest in frontend technology.
-
 ---
 
 ## 🛠️ Top Skills
@@ -21,19 +19,12 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, accessible
 - UI/UX Design Principles
 - Responsive and Mobile-first Development
 
----
-
-## 📈 GitHub Stats
-![Jobir03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jobir03&show_icons=true&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 _This section will highlight your best work. Please let me know which repositories you want featured, or I can select top projects based on your public repos and their descriptions!_
 
-- [Portfolio Website](https://github.com/Jobir03/portfolio)
-- [Weather App](https://github.com/Jobir03/weather-app)
-- [E-commerce Frontend](https://github.com/Jobir03/e-commerce-frontend)
+- [Open Source Chap widget](https://github.com/Jobir03/test-widget)
+- [Delivery App (React-native)](https://github.com/Jobir03/uniGo)
+- [CRM-dashboard](https://github.com/Jobir03/UniCRM-test)
 
 ---
 
@@ -46,10 +37,9 @@ _This section will highlight your best work. Please let me know which repositori
 ---
 
 ## 📫 Connect with Me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [Email](mailto:jobirashurov03@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jobir-ashurov/)
+- [Personal Website](https://my-porfolio-jobir.vercel.app/)
 
 
 Just share, and your GitHub profile will really stand out!
