@@ -6,17 +6,6 @@ Welcome to my GitHub profile! I love creating engaging user experiences and buil
 **Location:** Uzbekistan Bukhara
 I'm a passionate Frontend Developer dedicated to crafting responsive, accessible, and visually appealing web interfaces. I thrive on solving challenges with elegant code and keeping up with the latest in frontend technology.
 
-## 🛠️ Top Skills
-- JavaScript (ES6+)
-- React.js
-- Node Js
-- NestJs & ExpressJs
-- TypeScript
-- CSS3 & SASS/SCSS
-- Next.js
-- UI/UX Design Principles
-- Responsive and Mobile-first Development
-
 ## 🌟 Featured Projects
 _This section will highlight your best work. Please let me know which repositories you want featured, or I can select top projects based on your public repos and their descriptions!_
 
