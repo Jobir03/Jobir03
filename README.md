@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I love creating engaging user experiences and buil
 
 ## About Me
 **Profession:** Frontend Developer | React native | NodeJs
+
 **Location:** Uzbekistan Bukhara
 I'm a passionate Frontend Developer dedicated to crafting responsive, accessible, and visually appealing web interfaces. I thrive on solving challenges with elegant code and keeping up with the latest in frontend technology.
 
