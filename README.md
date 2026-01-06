@@ -13,8 +13,5 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, accessible
 - [CRM-dashboard](https://github.com/Jobir03/UniCRM-test)
 
 ## Connect with Me
-- [Email](mailto:jobirashurov03@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jobir-ashurov/)
-- [Personal Website](https://my-porfolio-jobir.vercel.app/)
-
+- [Email](mailto:jobirashurov03@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jobir-ashurov/) - [Personal Website](https://my-porfolio-jobir.vercel.app/)
 Just share, and your GitHub profile will really stand out!
